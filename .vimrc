@@ -34,7 +34,7 @@ set colorcolumn=80
 set expandtab
 set tabstop=4
 set shiftwidth=4
-
+retab
 
 "NERDTree shows hidden files and starts open in a bare instance
 let NERDTreeShowHidden=1
