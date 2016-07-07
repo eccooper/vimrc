@@ -8,10 +8,12 @@ Plugin 'VundleVim/Vundle.vim'
 
 Plugin 'scrooloose/nerdtree'
 
+Plugin 'kchmck/vim-coffee-script'
 Plugin 'leafgarland/typescript-vim'
 Plugin 'wting/rust.vim'
 
 Plugin 'Valloric/YouCompleteMe'
+Plugin 'jiangmiao/auto-pairs'
 
 Plugin 'flazz/vim-colorschemes'
 
@@ -57,4 +59,5 @@ let mapleader = "\<Space>"
 inoremap jk <ESC>
 
 nnoremap <Leader>w :w<CR>
+nnoremap <Leader>c :close<CR>
 nnoremap <Leader>t :NERDTreeToggle<CR>
