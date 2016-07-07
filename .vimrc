@@ -31,6 +31,9 @@ set encoding=utf-8
 set number
 set nowrap
 set colorcolumn=80 
+set expandtab
+set tabstop=4
+set shiftwidth=4
 
 
 "NERDTree shows hidden files and starts open in a bare instance
