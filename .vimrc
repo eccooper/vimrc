@@ -11,6 +11,8 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'leafgarland/typescript-vim'
 Plugin 'wting/rust.vim'
 
+Plugin 'Valloric/YouCompleteMe'
+
 Plugin 'flazz/vim-colorschemes'
 
 call vundle#end()
