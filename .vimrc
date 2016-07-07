@@ -8,6 +8,7 @@ Plugin 'VundleVim/Vundle.vim'
 
 Plugin 'scrooloose/nerdtree'
 
+Plugin 'leafgarland/typescript-vim'
 Plugin 'wting/rust.vim'
 
 Plugin 'flazz/vim-colorschemes'
